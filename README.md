@@ -6,8 +6,8 @@ The objective  this (SOC) automation project is to show how to integrate a power
 
 ### Skills Learned 
 
-- Installation and coniguration of servers using the cloud.
-- Index creation and generating telemetry using Wazuh.
+- Ability to create a logical diagram of data flow using Draw.io.
+- .
 - Using the command line to configure Wazuh, Elasticsearch, and The Hive.
 - Configuration of conf files in Windows.
 - Creating custom rules for Wazuh.
@@ -20,7 +20,7 @@ The objective  this (SOC) automation project is to show how to integrate a power
 - Virtual Box to install Windows Server 2022, Windows 10 Pro, and Ubuntu server VM's.
 - Sysmon and Splunk.
 - Windows Server Desktop to configure Active Directory.
-- Linux to spin up Ubuntu server
+- Linux to spin up Ubuntu Server.
 - Kali and ART to generate Telemetry.
 
 ## Steps
