@@ -16,13 +16,12 @@ The objective  this (SOC) automation project is to show how to integrate a power
 
 ### Tools Used
 
-- Sysmon 
-- Vultr to create two servers (Wazuh and The Hive).
-- Wazuh as a SIEM and EDR Tool.
-- The Hive as a Incident Platform.
-- Powershell to configure Wazuh, Elasticsearch, and The Hive
-- Telemetry generation tools to create realistic endpoint detection.
-- Shuffler.io for workflow automation and configure email notification.
+- Draw.io 
+- Virtual Box to install Windows Server 2022, Windows 10 Pro, and Ubuntu server VM's.
+- Sysmon and Splunk.
+- Windows Server Desktop to configure Active Directory.
+- Linux to spin up Ubuntu server
+- Kali and ART to generate Telemetry.
 
 ## Steps
 
