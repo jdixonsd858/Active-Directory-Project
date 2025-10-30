@@ -81,3 +81,7 @@ The project emphasizes security telemetry generation and collection, which invol
 <img width="1920" height="1080" alt="Screenshot (97)" src="https://github.com/user-attachments/assets/5ca9a100-c6ba-4475-9f7d-5929509deccc" />
 
 *Ref 13: Using Linux to create attack and generate Telemetry*
+
+<img width="1920" height="1080" alt="Screenshot (101)" src="https://github.com/user-attachments/assets/498c4650-5361-4837-8267-d02db84a664e" />
+
+
